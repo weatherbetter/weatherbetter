@@ -27,24 +27,18 @@
 
 
 ### 🔭 I’m currently working on
+| <a href="https://github.com/weatherbetter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weatherbetter&show_icons=true&include_all_commits=true&theme=buefy&hide=stars,contribs&count_private=true&hide_border=true" alt="weatherbetter's github stats" /></a> | <a href="https://github.com/weatherbetter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weatherbetter&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=weatherbetter&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/weatherbetter/github-readme-stats)
+#### Top Repositories
 
-### :muscle: I’m currently Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weatherbetter&layout=compact)](https://github.com/weatherbetter/github-readme-stats)
+<a href="https://github.com/weatherbetter/HDFS-Java-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weatherbetter&repo=HDFS-Java-API&theme=buefy" />
+</a>
+<a href="https://github.com/weatherbetter/HDFS-Java-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weatherbetter&repo=HDFS-Java-API&theme=buefy" />
+</a>
 
-<!--
-**weatherbetter/weatherbetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
