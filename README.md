@@ -46,9 +46,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weatherbetter&repo=HDFS-Java-API&theme=buefy" />
 </a>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=weatherbetter12)](https://solved.ac/weatherbetter12)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=weatherbetter)](https://solved.ac/weatherbetter)
-
-
