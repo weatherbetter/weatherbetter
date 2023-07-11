@@ -30,17 +30,3 @@
  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
  </p>
-
-### 📚 I’m currently working on
-| <a href="https://github.com/weatherbetter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weatherbetter&show_icons=true&include_all_commits=true&theme=buefy&hide=stars,contribs&count_private=true&hide_border=true" alt="weatherbetter's github stats" /></a> | <a href="https://github.com/weatherbetter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weatherbetter&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/weatherbetter/HDFS-Java-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weatherbetter&repo=HDFS-Java-API&theme=buefy" />
-</a>
-<a href="https://github.com/weatherbetter/HDFS-Java-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weatherbetter&repo=HDFS-Java-API&theme=buefy" />
-</a>
-
