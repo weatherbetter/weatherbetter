@@ -4,7 +4,7 @@
 </p>
 <p align='center'>
 	<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logoColor=white"/>
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 </p>
  <p align='center'>
  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
